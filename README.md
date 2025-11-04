@@ -160,13 +160,13 @@ hospital-management-system/
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="535" height="691" alt="Dashboard" src="https://github.com/user-attachments/assets/example-dashboard.png" />
+  <img width="1894" height="903" alt="Screenshot_2025-09-19_205217 1" src="https://github.com/user-attachments/assets/b6d8e7be-be56-4023-8aaa-270f1ebb90ca" />
   <br>
   <em>Admin dashboard displaying doctors and appointments</em>
   <br><br>
-  <img width="552" height="719" alt="Patient Page" src="https://github.com/user-attachments/assets/example-patient.png" />
+  <img width="1896" height="876" alt="Screenshot_2025-09-19_205323 1" src="https://github.com/user-attachments/assets/4683bbac-d90a-44b0-9109-6ef547beb300" />
   <br><br>
-  <img width="541" height="406" alt="Doctor Management" src="https://github.com/user-attachments/assets/example-doctor.png" />
+  <img width="1882" height="887" alt="Screenshot_2025-09-19_205257 1" src="https://github.com/user-attachments/assets/60c76859-c9fe-49c9-9282-77bc7f94368f" />
 </p>
 
 ---
